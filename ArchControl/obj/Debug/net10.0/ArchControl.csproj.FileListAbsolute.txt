@@ -1,0 +1,14 @@
+/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/bin/Debug/net10.0/ArchControl
+/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/bin/Debug/net10.0/ArchControl.deps.json
+/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/bin/Debug/net10.0/ArchControl.runtimeconfig.json
+/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/bin/Debug/net10.0/ArchControl.dll
+/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/bin/Debug/net10.0/ArchControl.pdb
+/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/obj/Debug/net10.0/ArchControl.GeneratedMSBuildEditorConfig.editorconfig
+/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/obj/Debug/net10.0/ArchControl.AssemblyInfoInputs.cache
+/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/obj/Debug/net10.0/ArchControl.AssemblyInfo.cs
+/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/obj/Debug/net10.0/ArchControl.csproj.CoreCompileInputs.cache
+/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/obj/Debug/net10.0/ArchControl.dll
+/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/obj/Debug/net10.0/refint/ArchControl.dll
+/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/obj/Debug/net10.0/ArchControl.pdb
+/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/obj/Debug/net10.0/ArchControl.genruntimeconfig.cache
+/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/obj/Debug/net10.0/ref/ArchControl.dll

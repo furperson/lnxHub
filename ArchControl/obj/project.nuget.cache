@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0rFMwvHjqkk=",
+  "success": true,
+  "projectFilePath": "/home/furper/Documents/studying/ProgLang/prjct/lnxHub/ArchControl/ArchControl.csproj",
+  "expectedPackageFiles": [
+    "/home/furper/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
