@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArchControl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c50b95c30afd7e0b958b6350dad2063ea5be7d06")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArchControl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArchControl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
